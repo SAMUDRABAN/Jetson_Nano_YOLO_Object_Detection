@@ -38,7 +38,6 @@ CUDNN=1
 OPENCV=1 
 
 
-https://user-images.githubusercontent.com/97033991/191580820-7e5a0e27-956d-469c-b95f-1f58808a34c3.mp4
 
 make
 To run object detection with Darknet, we need a model config and model weights(in the cfg directory).
@@ -47,7 +46,11 @@ wget https://pjreddie.com/media/files/yolov3-tiny.weights
 We are done with installation part and we need to run the camera module to see the predictions in real time-
 detectnet-camera.py
 
-Results from our kit - 
+Results from our kit -  
+
+
+
+https://user-images.githubusercontent.com/97033991/191580820-7e5a0e27-956d-469c-b95f-1f58808a34c3.mp4
 
 AUTHORS 
 
