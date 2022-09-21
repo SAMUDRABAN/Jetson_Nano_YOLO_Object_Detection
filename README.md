@@ -49,8 +49,7 @@ detectnet-camera.py
 # Results from our kit -  
 
 
-
-https://user-images.githubusercontent.com/97033991/191580820-7e5a0e27-956d-469c-b95f-1f58808a34c3.mp4
+https://user-images.githubusercontent.com/97033991/191591158-5ebe1e5b-bdae-49e1-b5e3-a1b67550447c.mp4
 
 # AUTHORS 
 
