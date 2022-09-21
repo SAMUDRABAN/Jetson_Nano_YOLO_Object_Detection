@@ -1,6 +1,6 @@
 # Jetson_Nano_YOLO_Object_Detection
 
-# NVIDIA Nano jetson
+# NVIDIA jetson Nano 
 NVIDIA Jetson Nano
 jetson
 
