@@ -4,9 +4,11 @@ Object-Detection-in-Jetson-Nano
 NVIDIA Jetson Nano
 jetson
 
+![189518011-1d189aaf-bfdf-4d54-b41b-495afd89cf15](https://user-images.githubusercontent.com/97033991/191567441-69846278-694b-42de-acdb-b9034f5a7a68.jpg)
+
 The NVIDIA Jetson Nano Developer Kit is an AI computer for makers, learners, and developers that brings the power of modern artificial intelligence to a low-power, easy-to-use platform. Get started quickly with out-of-the-box support for many popular peripherals, add-ons, and ready-to-use projects.
 
-We are grateful to NVIDIA and SRM Institute of Science and Technology for giving us the opportunity to work on this project.
+We are grateful to NVIDIA and SRM Institute of Science and Technology for giving us the opportunity to work on this project. 
 
 Setting up NVIDIA Jetson Nano
 
