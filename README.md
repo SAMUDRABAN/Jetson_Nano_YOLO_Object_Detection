@@ -12,7 +12,8 @@ We are grateful to NVIDIA and SRM Institute of Science and Technology for giving
 
 # Setting up NVIDIA Jetson Nano 
 
-![image](https://user-images.githubusercontent.com/97033991/191593362-9d7ebc13-c5c7-4479-85a0-36a8eb3523a9.png)
+![WhatsApp Image 2022-09-22 at 00 57 51](https://user-images.githubusercontent.com/97033991/191594355-489780a5-f877-45c7-8778-d4e7b77b5a23.jpeg)
+
 
 
 
