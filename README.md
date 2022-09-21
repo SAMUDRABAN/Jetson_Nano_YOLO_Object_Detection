@@ -36,6 +36,8 @@ GPU=1
 CUDNN=1
 
 OPENCV=1 
+
+
 https://user-images.githubusercontent.com/97033991/191580820-7e5a0e27-956d-469c-b95f-1f58808a34c3.mp4
 
 make
