@@ -36,7 +36,7 @@ GPU=1
 CUDNN=1
 
 OPENCV=1 
-https://user-images.githubusercontent.com/97033991/191580097-c48ba9e1-6527-47c8-adc4-4117b317aeb2.mp4
+https://user-images.githubusercontent.com/97033991/191580820-7e5a0e27-956d-469c-b95f-1f58808a34c3.mp4
 
 make
 To run object detection with Darknet, we need a model config and model weights(in the cfg directory).
