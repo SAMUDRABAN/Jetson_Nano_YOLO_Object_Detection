@@ -1,6 +1,6 @@
 # Jetson_Nano_YOLO_Object_Detection
 
-# Object-Detection-in-Jetson-Nano
+# NVIDIA Nano jetson
 NVIDIA Jetson Nano
 jetson
 
@@ -51,8 +51,8 @@ detectnet-camera.py
 
 # Results from our kit -  
 
+![image](https://user-images.githubusercontent.com/97033991/191593775-215208bb-fccb-4b0a-b396-8c8fb2b1cec7.png)
 
-https://user-images.githubusercontent.com/97033991/191591158-5ebe1e5b-bdae-49e1-b5e3-a1b67550447c.mp4
 
 # AUTHORS 
 
