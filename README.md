@@ -50,9 +50,11 @@ wget https://pjreddie.com/media/files/yolov3-tiny.weights
 We are done with installation part and we need to run the camera module to see the predictions in real time-
 detectnet-camera.py
 
-# Results from our kit -  
+# Results from our kit -
 
-![image](https://user-images.githubusercontent.com/97033991/191593775-215208bb-fccb-4b0a-b396-8c8fb2b1cec7.png)
+
+https://user-images.githubusercontent.com/97033991/191591158-5ebe1e5b-bdae-49e1-b5e3-a1b67550447c.mp4
+
 
 
 # AUTHORS 
